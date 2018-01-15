@@ -2,14 +2,16 @@
 
 Dominik Deák
 
+This repository contains the supporting files for the article, [Building a Theremin](https://deaksoftware.com.au/articles/building_a_theremin/).
+
 ## 1 KiCad Project Files
 
 * [KiCad Project Files](./Project)
 
 ## 2 Parts List
 
-* [Parts List, Sorted by Reference](./Documents/Parts List, Sorted by Reference.pdf)
-* [Parts List, Sorted by Value](./Documents/Parts List, Sorted by Value.pdf)
+* [Parts List, Sorted by Reference](./Documents/Parts%20List,%20Sorted%20by%20Reference.pdf)
+* [Parts List, Sorted by Value](./Documents/Parts%20List,%20Sorted%20by%20Value.pdf)
 
 ## 3 Legal and Copyright
 
