@@ -1,0 +1,1880 @@
+# EESchema Netlist Version 1.1 created  2/5/2009-07:53:12
+(
+ ( /49B3CE75 $noname  D3 1N4002 {Lib=DIODE}
+  (    1 GNDPWR )
+  (    2 N-000079 )
+ )
+ ( /49B3CE74 $noname  D2 1N4002 {Lib=DIODE}
+  (    1 N-000076 )
+  (    2 N-000023 )
+ )
+ ( /49B8D6CF $noname  R41 0 {Lib=R}
+  (    1 N-000077 )
+  (    2 N-000078 )
+ )
+ ( /49B8D6B9 $noname  R42 0 {Lib=R}
+  (    1 N-000043 )
+  (    2 N-000063 )
+ )
+ ( /49B8D67F $noname  R20 0 {Lib=R}
+  (    1 N-000013 )
+  (    2 N-000039 )
+ )
+ ( /49B8D62C $noname  R21 0 {Lib=R}
+  (    1 N-000038 )
+  (    2 N-000012 )
+ )
+ ( /49B7A2FA $noname  P8 Solder_Pad {Lib=CONN_1}
+  (    1 GNDPWR )
+ )
+ ( /49B7A2C4 $noname  P7 Solder_Pad {Lib=CONN_1}
+  (    1 N-000074 )
+ )
+ ( /49B7972E $noname  Q9 2N5484 {Lib=FET_N}
+  (    G N-000071 )
+  (    S N-000070 )
+  (    D N-000072 )
+ )
+ ( /49B7972A $noname  Q8 2N5484 {Lib=FET_N}
+  (    G N-000071 )
+  (    S N-000070 )
+  (    D N-000072 )
+ )
+ ( /49B796FA $noname  C41 1uF_6V_NP {Lib=CP}
+  (    1 N-000002 )
+  (    2 N-000073 )
+ )
+ ( /49B796F2 $noname  C37 10uF_6V {Lib=CP}
+  (    1 N-000070 )
+  (    2 GNDPWR )
+ )
+ ( /49B796DA $noname  C36 10nF {Lib=C}
+  (    1 VCC )
+  (    2 GNDPWR )
+ )
+ ( /49B796D0 $noname  C40 10nF {Lib=C}
+  (    1 VCC )
+  (    2 N-000002 )
+ )
+ ( /49B796B8 $noname  R36 3k {Lib=R}
+  (    1 N-000074 )
+  (    2 N-000073 )
+ )
+ ( /49B796B1 $noname  R34 1.5k {Lib=R}
+  (    1 VCC )
+  (    2 N-000002 )
+ )
+ ( /49B796AD $noname  R33 18k {Lib=R}
+  (    1 N-000002 )
+  (    2 N-000072 )
+ )
+ ( /49B796AA $noname  R30 3k {Lib=R}
+  (    1 N-000072 )
+  (    2 N-000005 )
+ )
+ ( /49B796A6 $noname  R32 100k {Lib=R}
+  (    1 N-000072 )
+  (    2 N-000071 )
+ )
+ ( /49B796A1 $noname  R29 120k {Lib=R}
+  (    1 N-000071 )
+  (    2 N-000004 )
+ )
+ ( /49B79698 $noname  R31 3k {Lib=R}
+  (    1 VCC )
+  (    2 N-000070 )
+ )
+ ( /49B79696 $noname  R28 3k {Lib=R}
+  (    1 N-000070 )
+  (    2 GNDPWR )
+ )
+ ( /49B7968A $noname  R27 100k {Lib=R}
+  (    1 N-000005 )
+  (    2 N-000075 )
+ )
+ ( /49B78E86 $noname  RV1 100k {Lib=POT}
+  (    1 N-000069 )
+  (    2 N-000004 )
+  (    3 GNDPWR )
+ )
+ ( /49B78A54 $noname  U1 LM358 {Lib=LM358}
+  (    1 N-000008 )
+  (    2 N-000064 )
+  (    3 GNDPWR )
+  (    4 GNDPWR )
+  (    5 N-000070 )
+  (    6 N-000005 )
+  (    7 N-000002 )
+  (    8 VCC )
+ )
+ ( /49B78A1F $noname  Q5 BC548 {Lib=NPN}
+  (    1 GNDPWR )
+  (    2 N-000068 )
+  (    3 N-000069 )
+ )
+ ( /49B789C9 $noname  C29 10uF_6V {Lib=CAPAPOL}
+  (    1 N-000069 )
+  (    2 GNDPWR )
+ )
+ ( /49B789BC $noname  D9 1N4148 {Lib=DIODE}
+  (    1 N-000066 )
+  (    2 N-000067 )
+ )
+ ( /49B789B6 $noname  D5 1N4148 {Lib=DIODE}
+  (    1 GNDPWR )
+  (    2 N-000007 )
+ )
+ ( /49B789AC $noname  D8 1N4148 {Lib=DIODE}
+  (    1 N-000007 )
+  (    2 N-000066 )
+ )
+ ( /49B7899B $noname  C21 0.1uF_6V {Lib=CAPAPOL}
+  (    1 N-000066 )
+  (    2 GNDPWR )
+ )
+ ( /49B7898A $noname  C15 2.2nF {Lib=C}
+  (    1 N-000007 )
+  (    2 N-000008 )
+ )
+ ( /49B7897C $noname  R19 12k {Lib=R}
+  (    1 VCC )
+  (    2 N-000069 )
+ )
+ ( /49B7897B $noname  R18 240k {Lib=R}
+  (    1 N-000068 )
+  (    2 GNDPWR )
+ )
+ ( /49B7897A $noname  R3 3.9M {Lib=R}
+  (    1 N-000064 )
+  (    2 N-000008 )
+ )
+ ( /49B78979 $noname  R2 100k {Lib=R}
+  (    1 N-000065 )
+  (    2 N-000064 )
+ )
+ ( /49B78974 $noname  R8 2.2M {Lib=R}
+  (    1 N-000066 )
+  (    2 GNDPWR )
+ )
+ ( /49B78973 $noname  R16 1M {Lib=R}
+  (    1 N-000067 )
+  (    2 N-000068 )
+ )
+ ( /49B78971 $noname  R17 1.8M {Lib=R}
+  (    1 VCC )
+  (    2 N-000068 )
+ )
+ ( /49B78954 $noname  R1 100k {Lib=R}
+  (    1 N-000065 )
+  (    2 GNDPWR )
+ )
+ ( /49B65521 $noname  R37 10k {Lib=R}
+  (    1 GNDPWR )
+  (    2 N-000041 )
+ )
+ ( /49B65520 $noname  C38 47nF {Lib=C}
+  (    1 N-000065 )
+  (    2 N-000040 )
+ )
+ ( /49B6551F $noname  R35 150k {Lib=R}
+  (    1 N-000040 )
+  (    2 N-000041 )
+ )
+ ( /49B6551E $noname  C39 47pF {Lib=C}
+  (    1 N-000040 )
+  (    2 GNDPWR )
+ )
+ ( /49B6551D $noname  C42 47pF {Lib=C}
+  (    1 N-000041 )
+  (    2 GNDPWR )
+ )
+ ( /49B6551C $noname  C43 4.7nF {Lib=C}
+  (    1 N-000041 )
+  (    2 GNDPWR )
+ )
+ ( /49B6551B $noname  D14 1N4148 {Lib=DIODE}
+  (    1 N-000041 )
+  (    2 N-000042 )
+ )
+ ( /49B65519 $noname  C45 330pF {Lib=C}
+  (    1 N-000042 )
+  (    2 N-000062 )
+ )
+ ( /49B65518 $noname  C44 10nF {Lib=C}
+  (    1 VCC )
+  (    2 GNDPWR )
+ )
+ ( /49B65517 $noname  R39 100k {Lib=R}
+  (    1 N-000078 )
+  (    2 GNDPWR )
+ )
+ ( /49B65516 $noname  Q10 2N5484 {Lib=FET_N}
+  (    G N-000078 )
+  (    S N-000044 )
+  (    D VCC )
+ )
+ ( /49B65514 $noname  R38 100 {Lib=R}
+  (    1 N-000062 )
+  (    2 GNDPWR )
+ )
+ ( /49B65513 $noname  L8 150uH {Lib=INDUCTOR}
+  (    1 N-000042 )
+  (    2 N-000062 )
+ )
+ ( /49B65512 $noname  R40 100k {Lib=R}
+  (    1 GNDPWR )
+  (    2 N-000063 )
+ )
+ ( /49B65510 $noname  Q11 2N5484 {Lib=FET_N}
+  (    G N-000063 )
+  (    S N-000042 )
+  (    D N-000044 )
+ )
+ ( /49B6550F $noname  C65 C {Lib=C}
+  (    1 N-000061 )
+  (    2 GNDPWR )
+ )
+ ( /49B6550E $noname  C63 330pF {Lib=C}
+  (    1 N-000061 )
+  (    2 GNDPWR )
+ )
+ ( /49B6550A $noname  C47 100pF {Lib=C}
+  (    1 N-000043 )
+  (    2 N-000055 )
+ )
+ ( /49B65509 $noname  R46 300 {Lib=R}
+  (    1 N-000046 )
+  (    2 GNDPWR )
+ )
+ ( /49B65508 $noname  L10 470uH {Lib=INDUCTOR}
+  (    1 N-000055 )
+  (    2 N-000046 )
+ )
+ ( /49B65507 $noname  C51 10nF {Lib=C}
+  (    1 N-000046 )
+  (    2 GNDPWR )
+ )
+ ( /49B65506 $noname  R48 100k {Lib=R}
+  (    1 N-000056 )
+  (    2 GNDPWR )
+ )
+ ( /49B65504 $noname  D16 1N4733A {Lib=ZENER}
+  (    1 GNDPWR )
+  (    2 N-000060 )
+ )
+ ( /49B65503 $noname  R45 100 {Lib=R}
+  (    1 N-000060 )
+  (    2 VCC )
+ )
+ ( /49B65502 $noname  C50 10nF {Lib=C}
+  (    1 N-000060 )
+  (    2 GNDPWR )
+ )
+ ( /49B65501 $noname  Q13 2N5484 {Lib=FET_N}
+  (    G N-000056 )
+  (    S N-000055 )
+  (    D N-000060 )
+ )
+ ( /49B654FC $noname  C59 100pF {Lib=C}
+  (    1 N-000061 )
+  (    2 N-000058 )
+ )
+ ( /49B654FB $noname  D18 1N4733A {Lib=ZENER}
+  (    1 GNDPWR )
+  (    2 N-000059 )
+ )
+ ( /49B654FA $noname  Q15 2N5484 {Lib=FET_N}
+  (    G N-000058 )
+  (    S GNDPWR )
+  (    D N-000057 )
+ )
+ ( /49B654F9 $noname  R50 300 {Lib=R}
+  (    1 VCC )
+  (    2 N-000059 )
+ )
+ ( /49B654F8 $noname  L12 1mH {Lib=INDUCTOR}
+  (    1 N-000059 )
+  (    2 N-000057 )
+ )
+ ( /49B654F7 $noname  R52 100k {Lib=R}
+  (    1 N-000058 )
+  (    2 GNDPWR )
+ )
+ ( /49B654F6 $noname  L14 150uH {Lib=INDUCTOR}
+  (    1 N-000057 )
+  (    2 N-000061 )
+ )
+ ( /49B654F5 $noname  C55 100pF {Lib=C}
+  (    1 N-000056 )
+  (    2 N-000057 )
+ )
+ ( /49B654F4 $noname  C54 10nF {Lib=C}
+  (    1 N-000059 )
+  (    2 GNDPWR )
+ )
+ ( /49B654F3 $noname  C57 39pF {Lib=C}
+  (    1 N-000058 )
+  (    2 GNDPWR )
+ )
+ ( /49B654F2 $noname  C61 560pF {Lib=C}
+  (    1 N-000058 )
+  (    2 GNDPWR )
+ )
+ ( /49B654F1 $noname  C69 2.2nF {Lib=C}
+  (    1 N-000057 )
+  (    2 GNDPWR )
+ )
+ ( /49B654ED $noname  C46 100pF {Lib=C}
+  (    1 N-000077 )
+  (    2 N-000047 )
+ )
+ ( /49B654EC $noname  R44 300 {Lib=R}
+  (    1 N-000045 )
+  (    2 GNDPWR )
+ )
+ ( /49B654EB $noname  L9 470uH {Lib=INDUCTOR}
+  (    1 N-000047 )
+  (    2 N-000045 )
+ )
+ ( /49B654EA $noname  C49 10nF {Lib=C}
+  (    1 N-000045 )
+  (    2 GNDPWR )
+ )
+ ( /49B654E9 $noname  R47 100k {Lib=R}
+  (    1 N-000048 )
+  (    2 GNDPWR )
+ )
+ ( /49B654E7 $noname  D15 1N4733A {Lib=ZENER}
+  (    1 GNDPWR )
+  (    2 N-000054 )
+ )
+ ( /49B654E6 $noname  R43 100 {Lib=R}
+  (    1 N-000054 )
+  (    2 VCC )
+ )
+ ( /49B654E5 $noname  C48 10nF {Lib=C}
+  (    1 N-000054 )
+  (    2 GNDPWR )
+ )
+ ( /49B654E4 $noname  Q12 2N5484 {Lib=FET_N}
+  (    G N-000048 )
+  (    S N-000047 )
+  (    D N-000054 )
+ )
+ ( /49B654E3 $noname  C67 33pF {Lib=C}
+  (    1 N-000053 )
+  (    2 GNDPWR )
+ )
+ ( /49B654DE $noname  C58 100pF {Lib=C}
+  (    1 N-000053 )
+  (    2 N-000051 )
+ )
+ ( /49B654DD $noname  C62 10-60pF {Lib=CTRIM}
+  (    1 N-000053 )
+  (    2 GNDPWR )
+ )
+ ( /49B654DC $noname  P9 Solder_Pad {Lib=CONN_1}
+  (    1 N-000049 )
+ )
+ ( /49B654DB $noname  D17 1N4733A {Lib=ZENER}
+  (    1 GNDPWR )
+  (    2 N-000052 )
+ )
+ ( /49B654DA $noname  Q14 2N5484 {Lib=FET_N}
+  (    G N-000051 )
+  (    S GNDPWR )
+  (    D N-000050 )
+ )
+ ( /49B654D9 $noname  R49 300 {Lib=R}
+  (    1 VCC )
+  (    2 N-000052 )
+ )
+ ( /49B654D8 $noname  L11 1mH {Lib=INDUCTOR}
+  (    1 N-000052 )
+  (    2 N-000050 )
+ )
+ ( /49B654D7 $noname  R51 100k {Lib=R}
+  (    1 N-000051 )
+  (    2 GNDPWR )
+ )
+ ( /49B654D6 $noname  L13 150uH {Lib=INDUCTOR}
+  (    1 N-000050 )
+  (    2 N-000053 )
+ )
+ ( /49B654D5 $noname  C66 100pF {Lib=C}
+  (    1 N-000049 )
+  (    2 N-000053 )
+ )
+ ( /49B654D4 $noname  C53 100pF {Lib=C}
+  (    1 N-000048 )
+  (    2 N-000050 )
+ )
+ ( /49B654D3 $noname  C52 10nF {Lib=C}
+  (    1 N-000052 )
+  (    2 GNDPWR )
+ )
+ ( /49B654D2 $noname  C56 39pF {Lib=C}
+  (    1 N-000051 )
+  (    2 GNDPWR )
+ )
+ ( /49B654D1 $noname  C60 560pF {Lib=C}
+  (    1 N-000051 )
+  (    2 GNDPWR )
+ )
+ ( /49B654D0 $noname  C64 270pF {Lib=C}
+  (    1 N-000053 )
+  (    2 GNDPWR )
+ )
+ ( /49B654CF $noname  C68 2.2nF {Lib=C}
+  (    1 N-000050 )
+  (    2 GNDPWR )
+ )
+ ( /49B65044 $noname  R25 10k {Lib=R}
+  (    1 GNDPWR )
+  (    2 N-000010 )
+ )
+ ( /49B6503B $noname  C35 47nF {Lib=C}
+  (    1 N-000075 )
+  (    2 N-000009 )
+ )
+ ( /49B6502C $noname  R26 150k {Lib=R}
+  (    1 N-000009 )
+  (    2 N-000010 )
+ )
+ ( /49B65020 $noname  C34 47pF {Lib=C}
+  (    1 N-000009 )
+  (    2 GNDPWR )
+ )
+ ( /49B6501E $noname  C33 47pF {Lib=C}
+  (    1 N-000010 )
+  (    2 GNDPWR )
+ )
+ ( /49B6501B $noname  C32 4.7nF {Lib=C}
+  (    1 N-000010 )
+  (    2 GNDPWR )
+ )
+ ( /49B64FF0 $noname  D13 1N4148 {Lib=DIODE}
+  (    1 N-000010 )
+  (    2 N-000011 )
+ )
+ ( /49B64924 $noname  C30 150pF {Lib=C}
+  (    1 N-000011 )
+  (    2 N-000037 )
+ )
+ ( /49B64699 $noname  C31 10nF {Lib=C}
+  (    1 VCC )
+  (    2 GNDPWR )
+ )
+ ( /49B6485D $noname  R22 100k {Lib=R}
+  (    1 N-000013 )
+  (    2 GNDPWR )
+ )
+ ( /49B64714 $noname  Q6 2N5484 {Lib=FET_N}
+  (    G N-000013 )
+  (    S N-000014 )
+  (    D VCC )
+ )
+ ( /49B6469B $noname  R24 100 {Lib=R}
+  (    1 N-000037 )
+  (    2 GNDPWR )
+ )
+ ( /49B6469A $noname  L7 150uH {Lib=INDUCTOR}
+  (    1 N-000011 )
+  (    2 N-000037 )
+ )
+ ( /49B64698 $noname  R23 100k {Lib=R}
+  (    1 GNDPWR )
+  (    2 N-000038 )
+ )
+ ( /49B64693 $noname  Q7 2N5484 {Lib=FET_N}
+  (    G N-000038 )
+  (    S N-000011 )
+  (    D N-000014 )
+ )
+ ( /49B639CB $noname  C5 C {Lib=C}
+  (    1 N-000036 )
+  (    2 GNDPWR )
+ )
+ ( /49B639B8 $noname  C7 150pF {Lib=C}
+  (    1 N-000036 )
+  (    2 GNDPWR )
+ )
+ ( /49B639D5 $noname  C28 100pF {Lib=C}
+  (    1 N-000012 )
+  (    2 N-000030 )
+ )
+ ( /49B639D4 $noname  R14 300 {Lib=R}
+  (    1 N-000016 )
+  (    2 GNDPWR )
+ )
+ ( /49B639D3 $noname  L6 470uH {Lib=INDUCTOR}
+  (    1 N-000030 )
+  (    2 N-000016 )
+ )
+ ( /49B639D2 $noname  C26 10nF {Lib=C}
+  (    1 N-000016 )
+  (    2 GNDPWR )
+ )
+ ( /49B639D1 $noname  R10 100k {Lib=R}
+  (    1 N-000031 )
+  (    2 GNDPWR )
+ )
+ ( /49B639CF $noname  D12 1N4733A {Lib=ZENER}
+  (    1 GNDPWR )
+  (    2 N-000035 )
+ )
+ ( /49B639CE $noname  R13 100 {Lib=R}
+  (    1 N-000035 )
+  (    2 VCC )
+ )
+ ( /49B639CD $noname  C25 10nF {Lib=C}
+  (    1 N-000035 )
+  (    2 GNDPWR )
+ )
+ ( /49B639CC $noname  Q4 2N5484 {Lib=FET_N}
+  (    G N-000031 )
+  (    S N-000030 )
+  (    D N-000035 )
+ )
+ ( /49B639C6 $noname  C12 100pF {Lib=C}
+  (    1 N-000036 )
+  (    2 N-000033 )
+ )
+ ( /49B639C3 $noname  D7 1N4733A {Lib=ZENER}
+  (    1 GNDPWR )
+  (    2 N-000034 )
+ )
+ ( /49B639C2 $noname  Q2 2N5484 {Lib=FET_N}
+  (    G N-000033 )
+  (    S GNDPWR )
+  (    D N-000032 )
+ )
+ ( /49B639C1 $noname  R7 300 {Lib=R}
+  (    1 VCC )
+  (    2 N-000034 )
+ )
+ ( /49B639C0 $noname  L4 1mH {Lib=INDUCTOR}
+  (    1 N-000034 )
+  (    2 N-000032 )
+ )
+ ( /49B639BF $noname  R5 100k {Lib=R}
+  (    1 N-000033 )
+  (    2 GNDPWR )
+ )
+ ( /49B639BE $noname  L2 150uH {Lib=INDUCTOR}
+  (    1 N-000032 )
+  (    2 N-000036 )
+ )
+ ( /49B639BC $noname  C19 100pF {Lib=C}
+  (    1 N-000031 )
+  (    2 N-000032 )
+ )
+ ( /49B639BB $noname  C18 10nF {Lib=C}
+  (    1 N-000034 )
+  (    2 GNDPWR )
+ )
+ ( /49B639BA $noname  C14 39pF {Lib=C}
+  (    1 N-000033 )
+  (    2 GNDPWR )
+ )
+ ( /49B639B9 $noname  C10 560pF {Lib=C}
+  (    1 N-000033 )
+  (    2 GNDPWR )
+ )
+ ( /49B639B7 $noname  C2 820pF {Lib=C}
+  (    1 N-000032 )
+  (    2 GNDPWR )
+ )
+ ( /49B63494 $noname  C27 100pF {Lib=C}
+  (    1 N-000039 )
+  (    2 N-000017 )
+ )
+ ( /49B6348D $noname  R12 300 {Lib=R}
+  (    1 N-000015 )
+  (    2 GNDPWR )
+ )
+ ( /49B63482 $noname  L5 470uH {Lib=INDUCTOR}
+  (    1 N-000017 )
+  (    2 N-000015 )
+ )
+ ( /49B6347C $noname  C24 10nF {Lib=C}
+  (    1 N-000015 )
+  (    2 GNDPWR )
+ )
+ ( /49B63470 $noname  R9 100k {Lib=R}
+  (    1 N-000018 )
+  (    2 GNDPWR )
+ )
+ ( /49B6346B $noname  D11 1N4733A {Lib=ZENER}
+  (    1 GNDPWR )
+  (    2 N-000029 )
+ )
+ ( /49B6346A $noname  R11 100 {Lib=R}
+  (    1 N-000029 )
+  (    2 VCC )
+ )
+ ( /49B63469 $noname  C23 10nF {Lib=C}
+  (    1 N-000029 )
+  (    2 GNDPWR )
+ )
+ ( /49B6343E $noname  Q3 2N5484 {Lib=FET_N}
+  (    G N-000018 )
+  (    S N-000017 )
+  (    D N-000029 )
+ )
+ ( /49B60B60 $noname  C4 C {Lib=C}
+  (    1 N-000028 )
+  (    2 GNDPWR )
+ )
+ ( /49B508A3 $noname  C11 100pF {Lib=C}
+  (    1 N-000028 )
+  (    2 N-000026 )
+ )
+ ( /49B5077F $noname  C8 10-60pF {Lib=CTRIM}
+  (    1 N-000028 )
+  (    2 GNDPWR )
+ )
+ ( /49B50750 $noname  P4 Solder_Pad {Lib=CONN_1}
+  (    1 N-000019 )
+ )
+ ( /49B50742 $noname  D6 1N4733A {Lib=ZENER}
+  (    1 GNDPWR )
+  (    2 N-000027 )
+ )
+ ( /49B50705 $noname  Q1 2N5484 {Lib=FET_N}
+  (    G N-000026 )
+  (    S GNDPWR )
+  (    D N-000020 )
+ )
+ ( /49B5069F $noname  R6 300 {Lib=R}
+  (    1 VCC )
+  (    2 N-000027 )
+ )
+ ( /49B50696 $noname  L3 1mH {Lib=INDUCTOR}
+  (    1 N-000027 )
+  (    2 N-000020 )
+ )
+ ( /49B50688 $noname  R4 100k {Lib=R}
+  (    1 N-000026 )
+  (    2 GNDPWR )
+ )
+ ( /49B50672 $noname  L1 150uH {Lib=INDUCTOR}
+  (    1 N-000020 )
+  (    2 N-000028 )
+ )
+ ( /49B50665 $noname  C3 100pF {Lib=C}
+  (    1 N-000019 )
+  (    2 N-000028 )
+ )
+ ( /49B50650 $noname  C17 100pF {Lib=C}
+  (    1 N-000018 )
+  (    2 N-000020 )
+ )
+ ( /49B5064C $noname  C16 10nF {Lib=C}
+  (    1 N-000027 )
+  (    2 GNDPWR )
+ )
+ ( /49B50645 $noname  C13 39pF {Lib=C}
+  (    1 N-000026 )
+  (    2 GNDPWR )
+ )
+ ( /49B5063C $noname  C9 560pF {Lib=C}
+  (    1 N-000026 )
+  (    2 GNDPWR )
+ )
+ ( /49B50636 $noname  C6 120pF {Lib=C}
+  (    1 N-000028 )
+  (    2 GNDPWR )
+ )
+ ( /49B50620 $noname  C1 820pF {Lib=C}
+  (    1 N-000020 )
+  (    2 GNDPWR )
+ )
+ ( /49B3DA5F $noname  U2 LM7806 {Lib=LM7805}
+  (   VI N-000023 )
+  (  GND GNDPWR )
+  (   VO VCC )
+ )
+ ( /49B3D24D $noname  P6 Solder_Pad {Lib=CONN_1}
+  (    1 N-000076 )
+ )
+ ( /49B3D22B $noname  P5 Solder_Pad {Lib=CONN_1}
+  (    1 N-000079 )
+ )
+ ( /49B3D1E9 $noname  SW1 SPST {Lib=SPST}
+  (    1 N-000021 )
+  (    2 N-000025 )
+ )
+ ( /49B3D14A $noname  T1 240V_to_12V_AC_150mA {Lib=TRANSFO}
+  (    1 N-000025 )
+  (    2 N-000022 )
+  (    3 N-000076 )
+  (    4 N-000079 )
+ )
+ ( /49B3D049 $noname  R15 330 {Lib=R}
+  (    1 N-000024 )
+  (    2 GNDPWR )
+ )
+ ( /49B3D021 $noname  D10 Red_LED {Lib=LED}
+  (    1 VCC )
+  (    2 N-000024 )
+ )
+ ( /49B3CE7B $noname  C22 100nF {Lib=C}
+  (    1 VCC )
+  (    2 GNDPWR )
+ )
+ ( /49B3CE77 $noname  C20 470uF_16V {Lib=CAPAPOL}
+  (    1 N-000023 )
+  (    2 GNDPWR )
+ )
+ ( /49B3CE76 $noname  D4 1N4002 {Lib=DIODE}
+  (    1 GNDPWR )
+  (    2 N-000076 )
+ )
+ ( /49B3CE73 $noname  D1 1N4002 {Lib=DIODE}
+  (    1 N-000079 )
+  (    2 N-000023 )
+ )
+ ( /49B3CE72 $noname  P3 Mains_Socket {Lib=CONN_1}
+  (    1 GNDPWR )
+ )
+ ( /49B3CE71 $noname  P2 Mains_Socket {Lib=CONN_1}
+  (    1 N-000022 )
+ )
+ ( /49B3CE70 $noname  P1 Mains_Socket {Lib=CONN_1}
+  (    1 N-000021 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component D3
+ D?
+ S*
+$endlist
+$component D2
+ D?
+ S*
+$endlist
+$component R41
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R42
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R20
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R21
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C41
+ CP*
+ SM*
+$endlist
+$component C37
+ CP*
+ SM*
+$endlist
+$component C36
+ SM*
+ C?
+ C1-1
+$endlist
+$component C40
+ SM*
+ C?
+ C1-1
+$endlist
+$component R36
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R34
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R33
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R30
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R32
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R29
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R31
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R28
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R27
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C29
+ CP*
+ SM*
+$endlist
+$component D9
+ D?
+ S*
+$endlist
+$component D5
+ D?
+ S*
+$endlist
+$component D8
+ D?
+ S*
+$endlist
+$component C21
+ CP*
+ SM*
+$endlist
+$component C15
+ SM*
+ C?
+ C1-1
+$endlist
+$component R19
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R18
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R16
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R17
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R37
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C38
+ SM*
+ C?
+ C1-1
+$endlist
+$component R35
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C39
+ SM*
+ C?
+ C1-1
+$endlist
+$component C42
+ SM*
+ C?
+ C1-1
+$endlist
+$component C43
+ SM*
+ C?
+ C1-1
+$endlist
+$component D14
+ D?
+ S*
+$endlist
+$component C45
+ SM*
+ C?
+ C1-1
+$endlist
+$component C44
+ SM*
+ C?
+ C1-1
+$endlist
+$component R39
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R38
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R40
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C65
+ SM*
+ C?
+ C1-1
+$endlist
+$component C63
+ SM*
+ C?
+ C1-1
+$endlist
+$component C47
+ SM*
+ C?
+ C1-1
+$endlist
+$component R46
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C51
+ SM*
+ C?
+ C1-1
+$endlist
+$component R48
+ R?
+ SM0603
+ SM0805
+$endlist
+$component D16
+ D?
+ SO*
+ SM*
+$endlist
+$component R45
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C50
+ SM*
+ C?
+ C1-1
+$endlist
+$component C59
+ SM*
+ C?
+ C1-1
+$endlist
+$component D18
+ D?
+ SO*
+ SM*
+$endlist
+$component R50
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R52
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C55
+ SM*
+ C?
+ C1-1
+$endlist
+$component C54
+ SM*
+ C?
+ C1-1
+$endlist
+$component C57
+ SM*
+ C?
+ C1-1
+$endlist
+$component C61
+ SM*
+ C?
+ C1-1
+$endlist
+$component C69
+ SM*
+ C?
+ C1-1
+$endlist
+$component C46
+ SM*
+ C?
+ C1-1
+$endlist
+$component R44
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C49
+ SM*
+ C?
+ C1-1
+$endlist
+$component R47
+ R?
+ SM0603
+ SM0805
+$endlist
+$component D15
+ D?
+ SO*
+ SM*
+$endlist
+$component R43
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C48
+ SM*
+ C?
+ C1-1
+$endlist
+$component C67
+ SM*
+ C?
+ C1-1
+$endlist
+$component C58
+ SM*
+ C?
+ C1-1
+$endlist
+$component D17
+ D?
+ SO*
+ SM*
+$endlist
+$component R49
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R51
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C66
+ SM*
+ C?
+ C1-1
+$endlist
+$component C53
+ SM*
+ C?
+ C1-1
+$endlist
+$component C52
+ SM*
+ C?
+ C1-1
+$endlist
+$component C56
+ SM*
+ C?
+ C1-1
+$endlist
+$component C60
+ SM*
+ C?
+ C1-1
+$endlist
+$component C64
+ SM*
+ C?
+ C1-1
+$endlist
+$component C68
+ SM*
+ C?
+ C1-1
+$endlist
+$component R25
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C35
+ SM*
+ C?
+ C1-1
+$endlist
+$component R26
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C34
+ SM*
+ C?
+ C1-1
+$endlist
+$component C33
+ SM*
+ C?
+ C1-1
+$endlist
+$component C32
+ SM*
+ C?
+ C1-1
+$endlist
+$component D13
+ D?
+ S*
+$endlist
+$component C30
+ SM*
+ C?
+ C1-1
+$endlist
+$component C31
+ SM*
+ C?
+ C1-1
+$endlist
+$component R22
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R24
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R23
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C28
+ SM*
+ C?
+ C1-1
+$endlist
+$component R14
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C26
+ SM*
+ C?
+ C1-1
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+$endlist
+$component D12
+ D?
+ SO*
+ SM*
+$endlist
+$component R13
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C25
+ SM*
+ C?
+ C1-1
+$endlist
+$component C12
+ SM*
+ C?
+ C1-1
+$endlist
+$component D7
+ D?
+ SO*
+ SM*
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C19
+ SM*
+ C?
+ C1-1
+$endlist
+$component C18
+ SM*
+ C?
+ C1-1
+$endlist
+$component C14
+ SM*
+ C?
+ C1-1
+$endlist
+$component C10
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C27
+ SM*
+ C?
+ C1-1
+$endlist
+$component R12
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C24
+ SM*
+ C?
+ C1-1
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+$endlist
+$component D11
+ D?
+ SO*
+ SM*
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C23
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C11
+ SM*
+ C?
+ C1-1
+$endlist
+$component D6
+ D?
+ SO*
+ SM*
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C17
+ SM*
+ C?
+ C1-1
+$endlist
+$component C16
+ SM*
+ C?
+ C1-1
+$endlist
+$component C13
+ SM*
+ C?
+ C1-1
+$endlist
+$component C9
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component R15
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C22
+ SM*
+ C?
+ C1-1
+$endlist
+$component C20
+ CP*
+ SM*
+$endlist
+$component D4
+ D?
+ S*
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 2 ""
+ R33 1
+ R34 2
+ U1 7
+ C40 2
+ C41 1
+Net 3 "GNDPWR"
+ P3 1
+ D4 1
+ C20 2
+ C22 2
+ R15 2
+ U2 GND
+ D3 1
+ P8 1
+ C1 2
+ C6 2
+ C9 2
+ C13 2
+ C16 2
+ R4 2
+ Q1 S
+ D6 1
+ C8 2
+ C37 2
+ C4 2
+ C23 2
+ C36 2
+ D11 1
+ R9 2
+ C24 2
+ R12 2
+ C2 2
+ C10 2
+ C14 2
+ C18 2
+ R5 2
+ Q2 S
+ D7 1
+ R28 2
+ C25 2
+ D12 1
+ R10 2
+ C26 2
+ R14 2
+ C7 2
+ C5 2
+ R23 1
+ R24 2
+ R22 2
+ C31 2
+ RV1 3
+ C32 2
+ C33 2
+ C34 2
+ U1 4
+ U1 3
+ U1 4
+ R25 1
+ C68 2
+ C64 2
+ Q5 1
+ C60 2
+ C56 2
+ C52 2
+ R51 2
+ Q14 S
+ D17 1
+ C62 2
+ C29 2
+ D5 1
+ C21 2
+ R18 2
+ R8 2
+ C67 2
+ C48 2
+ D15 1
+ R1 2
+ R47 2
+ C49 2
+ R44 2
+ C69 2
+ C61 2
+ C57 2
+ C54 2
+ R52 2
+ Q15 S
+ D18 1
+ C50 2
+ D16 1
+ R48 2
+ C51 2
+ R46 2
+ C63 2
+ C65 2
+ R37 1
+ C39 2
+ R40 1
+ R38 2
+ R39 2
+ C44 2
+ C42 2
+ C43 2
+Net 4 ""
+ R29 2
+ RV1 2
+Net 5 ""
+ R27 1
+ R30 2
+ U1 6
+Net 6 "VCC"
+ R43 2
+ R50 1
+ R17 1
+ R19 1
+ R45 2
+ C22 1
+ R49 1
+ U1 8
+ U1 8
+ U2 VO
+ C31 1
+ Q6 D
+ Q10 D
+ C44 1
+ R13 2
+ R31 1
+ D10 1
+ R7 1
+ R34 1
+ C40 1
+ R11 2
+ C36 1
+ R6 1
+Net 7 ""
+ D5 2
+ D8 1
+ C15 1
+Net 8 ""
+ C15 2
+ U1 1
+ R3 2
+Net 9 ""
+ R26 1
+ C34 1
+ C35 2
+Net 10 ""
+ R25 2
+ C32 1
+ C33 1
+ R26 2
+ D13 1
+Net 11 ""
+ D13 2
+ C30 1
+ L7 1
+ Q7 S
+Net 12 ""
+ R21 2
+ C28 1
+Net 13 ""
+ Q6 G
+ R22 1
+ R20 1
+Net 14 ""
+ Q6 S
+ Q7 D
+Net 15 ""
+ C24 1
+ R12 1
+ L5 2
+Net 16 ""
+ L6 2
+ R14 1
+ C26 1
+Net 17 ""
+ L5 1
+ Q3 S
+ C27 2
+Net 18 ""
+ R9 1
+ C17 1
+ Q3 G
+Net 19 ""
+ P4 1
+ C3 1
+Net 20 ""
+ L3 2
+ L1 1
+ Q1 D
+ C17 2
+ C1 1
+Net 21 ""
+ P1 1
+ SW1 1
+Net 22 ""
+ T1 2
+ P2 1
+Net 23 ""
+ C20 1
+ D2 2
+ D1 2
+ U2 VI
+Net 24 ""
+ D10 2
+ R15 1
+Net 25 ""
+ SW1 2
+ T1 1
+Net 26 ""
+ C13 1
+ C11 2
+ Q1 G
+ C9 1
+ R4 1
+Net 27 ""
+ L3 1
+ C16 1
+ R6 2
+ D6 2
+Net 28 ""
+ C4 1
+ C11 1
+ L1 2
+ C6 1
+ C3 2
+ C8 1
+Net 29 ""
+ Q3 D
+ R11 1
+ D11 2
+ C23 1
+Net 30 ""
+ Q4 S
+ L6 1
+ C28 2
+Net 31 ""
+ C19 1
+ Q4 G
+ R10 1
+Net 32 ""
+ L4 2
+ L2 1
+ Q2 D
+ C19 2
+ C2 1
+Net 33 ""
+ C10 1
+ C12 2
+ R5 1
+ Q2 G
+ C14 1
+Net 34 ""
+ C18 1
+ D7 2
+ R7 2
+ L4 1
+Net 35 ""
+ Q4 D
+ C25 1
+ R13 1
+ D12 2
+Net 36 ""
+ C7 1
+ C5 1
+ C12 1
+ L2 2
+Net 37 ""
+ C30 2
+ L7 2
+ R24 1
+Net 38 ""
+ R23 2
+ R21 1
+ Q7 G
+Net 39 ""
+ C27 1
+ R20 2
+Net 40 ""
+ C39 1
+ R35 1
+ C38 2
+Net 41 ""
+ R35 2
+ C42 1
+ C43 1
+ R37 2
+ D14 1
+Net 42 ""
+ Q11 S
+ L8 1
+ C45 1
+ D14 2
+Net 43 ""
+ C47 1
+ R42 1
+Net 44 ""
+ Q10 S
+ Q11 D
+Net 45 ""
+ C49 1
+ L9 2
+ R44 1
+Net 46 ""
+ R46 1
+ L10 2
+ C51 1
+Net 47 ""
+ L9 1
+ C46 2
+ Q12 S
+Net 48 ""
+ Q12 G
+ R47 1
+ C53 1
+Net 49 ""
+ P9 1
+ C66 1
+Net 50 ""
+ C53 2
+ L13 1
+ C68 1
+ L11 2
+ Q14 D
+Net 51 ""
+ C58 2
+ C60 1
+ Q14 G
+ C56 1
+ R51 1
+Net 52 ""
+ L11 1
+ R49 2
+ C52 1
+ D17 2
+Net 53 ""
+ C64 1
+ C66 2
+ C67 1
+ C62 1
+ L13 2
+ C58 1
+Net 54 ""
+ R43 1
+ D15 2
+ C48 1
+ Q12 D
+Net 55 ""
+ C47 2
+ Q13 S
+ L10 1
+Net 56 ""
+ Q13 G
+ C55 1
+ R48 1
+Net 57 ""
+ C69 1
+ C55 2
+ Q15 D
+ L14 1
+ L12 2
+Net 58 ""
+ C57 1
+ R52 1
+ Q15 G
+ C61 1
+ C59 2
+Net 59 ""
+ R50 2
+ D18 2
+ L12 1
+ C54 1
+Net 60 ""
+ C50 1
+ R45 1
+ D16 2
+ Q13 D
+Net 61 ""
+ L14 2
+ C59 1
+ C63 1
+ C65 1
+Net 62 ""
+ R38 1
+ L8 2
+ C45 2
+Net 63 ""
+ R40 2
+ Q11 G
+ R42 2
+Net 64 ""
+ R3 1
+ R2 2
+ U1 2
+Net 65 ""
+ C38 1
+ R2 1
+ R1 1
+Net 66 ""
+ D9 1
+ D8 2
+ R8 1
+ C21 1
+Net 67 ""
+ R16 1
+ D9 2
+Net 68 ""
+ R16 2
+ Q5 2
+ R17 2
+ R18 1
+Net 69 ""
+ R19 2
+ RV1 1
+ C29 1
+ Q5 3
+Net 70 ""
+ Q9 S
+ R28 1
+ Q8 S
+ U1 5
+ R31 2
+ C37 1
+Net 71 ""
+ R32 2
+ Q9 G
+ Q8 G
+ R29 1
+Net 72 ""
+ R33 2
+ R30 1
+ Q8 D
+ Q9 D
+ R32 1
+Net 73 ""
+ C41 2
+ R36 2
+Net 74 ""
+ P7 1
+ R36 1
+Net 75 ""
+ R27 2
+ C35 1
+Net 76 ""
+ D2 1
+ T1 3
+ D4 2
+ P6 1
+Net 77 ""
+ R41 1
+ C46 1
+Net 78 ""
+ R39 1
+ R41 2
+ Q10 G
+Net 79 ""
+ D3 2
+ D1 1
+ T1 4
+ P5 1
+}
+#End
