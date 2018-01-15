@@ -7,13 +7,13 @@ Dominik Deák
 
 The theremin was invented nearly 100 years ago. This instrument captivated audiences worldwide when it was first demonstrated by its inventor, Lev Sergeivich Termen. Despite mainstream interest in the theremin had faded by 1938, the instrument remained popular amongst electronics enthusiasts and hobbyists alike. Fortunately, building a simple theremin is not an expensive enterprise; anyone with moderate electronics skills can build one for themselves.
 
-## 2 Files and Resources
+## 2 Supporting Resources
 
-### 2.1 Supporting Documentation
+### 2.1 Documentation
 
 * [Building a Theremin](https://deaksoftware.com.au/articles/building_a_theremin/) - Main article
 
-### 2.2 Schematics and Board Project Files
+### 2.2 Project Files
 
 * [KiCad Project Files](./project/)
 
